@@ -6,6 +6,7 @@ A Power BI dashboard designed to analyze Accounts Receivable (AR) aging, collect
 When a company issues an invoice, the unpaid amount becomes part of its Accounts Receivable. The longer these invoices remain unpaid, the higher the risk of non-collection. AR Aging is the analytical practice of categorizing unpaid invoices by how far past due they are. This allows finance and collections teams to strategically prioritize their efforts on the oldest, highest-risk accounts rather than treating a 5-day overdue invoice with the same urgency as one that is 100 days late.
 
 I built this dashboard to simulate that end-to-end process, transforming raw invoice data into an actionable view for collections management.
+
 Project Scope
 **•	Custom Dataset:** A 150-invoice, 25-column dataset created manually to replicate realistic invoice-level data, including customer details, dates, payment modes, collection statuses, and dispute reasons.
 **•	Interactive Dashboard:** A two-page Power BI report focusing on AR Overview and Collection Performance.
