@@ -72,14 +72,14 @@ Users can filter the dashboard by Invoice Date, Aging Bucket, Sales Representati
 
 •	Disputes are heavily concentrated around incomplete deliverables and contract mismatches. Resolving these upstream operational bottlenecks is required to improve downstream cash flow.
 
-**Repository Files**
-•	AR_Aging_Dashboard.pbix — The functional Power BI dashboard.
-•	AR_Aging_Dataset.xlsx — The underlying 150-invoice dataset.
+**Repository Files**  
+•	AR_Aging_Dashboard.pbix — The functional Power BI dashboard.  
+•	AR_Aging_Dataset.xlsx — The underlying 150-invoice dataset.  
 •	Dashboard screenshots showcasing Page 1 and Page 2.
 
-**Tools Utilized**
+**Tools Utilized**  
 Power BI, Power Query (for data cleaning and transformation), Microsoft Excel, and DAX (for calculated measures).
 
-**About the Author**
+**About the Author**  
 Built by Mohd Saquib. Drawing on my hands-on background as an Accounts Executive and my MBA in Finance and Marketing, I developed this portfolio project to demonstrate practical expertise in financial reporting, data structuring, and translating complex AR data into actionable business intelligence.
 
