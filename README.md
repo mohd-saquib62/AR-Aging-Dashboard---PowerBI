@@ -46,8 +46,7 @@ Users can filter the dashboard by Invoice Date, Aging Bucket, Sales Representati
 **•	Amount Received by Payment Mode:** Analyzes successfully collected funds by transaction type (NEFT, Cheque, UPI, RTGS, Letter of Credit) to track customer payment behaviors.  
 **•	Disputed Invoices by Reason:** Connects collection delays directly to root causes, such as incomplete deliverables or contract mismatches. This crucial view proves that delayed payments are often upstream operational issues rather than a simple refusal to pay.
 
-**Key Takeaways from the Data**
-
+**Key Takeaways from the Data**  
 •	The Over 90 Days bucket holds the largest share of overdue capital (₹90.78L), making it the immediate priority for collections.  
 •	Collection Efficiency varies significantly among analysts (ranging from 74.56% to 90.04%), indicating a clear opportunity for targeted coaching and process alignment.  
 •	Disputes are heavily concentrated around incomplete deliverables and contract mismatches. Resolving these upstream operational bottlenecks is required to improve downstream cash flow.
