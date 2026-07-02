@@ -18,7 +18,7 @@ My goal with this project was to demonstrate the practical reporting responsibil
 
 **Page 1: AR Overview**
 
-**Key Performance Indicators**
+**Key Performance Indicators**  
 **•	Total Invoices:** The total volume of invoices raised during the period.  
 **•	Total Invoice Value:** The gross financial value of all raised invoices, regardless of payment status.  
 **•	Total Outstanding Amount:** The total capital currently unpaid, encompassing both overdue invoices and those not yet due.  
@@ -26,7 +26,7 @@ My goal with this project was to demonstrate the practical reporting responsibil
 **•	Days Sales Outstanding (DSO):** The average number of days it takes to collect payment after an invoice is raised. A lower DSO indicates healthier cash flow. For example, a DSO of 67 means cash is tied up for roughly 67 days, effectively acting as free credit to customers.  
 **•	Overdue Invoices:** The volume of invoices that have passed their due date and remain unpaid.
 
-**Visual Analytics**
+**Visual Analytics**  
 **•	Invoices by Collection Status:** A breakdown of invoice volumes into categories like Collected In Time, Collected Late, Partially Collected, and Not Collected. This provides an immediate health check on payment reliability.  
 **•	Outstanding Amount by Segment:** Highlights unpaid capital divided by customer business size (Enterprise, Mid-Market, SME). Because larger enterprise clients often carry heavier balances, this visual quickly identifies where the most significant financial exposure lies.  
 **•	Outstanding Amount by Region:** Maps financial exposure across geographic territories to help regional teams assess their specific collection burdens.  
@@ -37,11 +37,11 @@ Users can filter the dashboard by Invoice Date, Aging Bucket, Sales Representati
 
 **Page 2: Collection Performance**
 
-**Analytical Tables**
+**Analytical Tables**  
 **•	Customer Table:** Contrasts the total outstanding amount with the total overdue amount for each customer. Viewing these metrics side-by-side reveals which clients simply have standard open invoices versus those holding genuinely delinquent funds.  
 **•	AR Analyst Table:** Tracks individual analyst performance by comparing invoice volume, collection efficiency, overdue counts, and disputed accounts. This highlights areas where specific team members might require additional support or process refinement.
 
-**Performance Visuals**
+**Performance Visuals**  
 **•	Collection Efficiency by Sales Rep:** Applies the efficiency metric at the individual representative level to identify which client portfolios yield the most reliable payments.  
 **•	Amount Received by Payment Mode:** Analyzes successfully collected funds by transaction type (NEFT, Cheque, UPI, RTGS, Letter of Credit) to track customer payment behaviors.  
 **•	Disputed Invoices by Reason:** Connects collection delays directly to root causes, such as incomplete deliverables or contract mismatches. This crucial view proves that delayed payments are often upstream operational issues rather than a simple refusal to pay.
